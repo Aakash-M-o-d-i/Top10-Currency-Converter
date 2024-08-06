@@ -46,10 +46,10 @@ Welcome to the Top 10 Currency Converter! This tool allows you to convert betwee
 
 ## Features
 
-- **Real-Time Conversion Rates**: Get the most up-to-date exchange rates.
+<!-- - **Real-Time Conversion Rates**: Get the most up-to-date exchange rates. -->
 - **Easy-to-Use Interface**: A user-friendly interface designed for both beginners and professionals.
 - **Multiple Conversions**: Convert between any of the supported currencies quickly and efficiently.
-- **Creative Symbols**: Enjoy the visually appealing currency symbols to enhance your experience.
+<!-- - **Creative Symbols**: Enjoy the visually appealing currency symbols to enhance your experience. -->
 
 ## How to Use
 
